@@ -1,0 +1,12 @@
+# Abaikan Virtual Environment
+venv/
+
+# Abaikan Data (penting!)
+data/
+
+# Abaikan Model yang sudah di-train (penting!)
+models/
+
+# Abaikan cache Python dan Jupyter
+__pycache__/
+.ipynb_checkpoints/
